@@ -1,0 +1,213 @@
+{
+  "run_info": {
+    "timestamp": "2026-09-28T14:33:59",
+    "csv": "data/predictions/privacy_v7_epoch3/survey_with_label3_predictions.csv",
+    "n": 250,
+    "presidio_analyzer": "2.2.364",
+    "spacy": "3.8.16",
+    "spacy_model": "en_core_web_lg"
+  },
+  "rules": {
+    "CRITICAL": [
+      "CREDIT_CARD",
+      "CRYPTO",
+      "IBAN_CODE",
+      "UK_NHS",
+      "US_BANK_NUMBER",
+      "US_DRIVER_LICENSE",
+      "US_ITIN",
+      "US_PASSPORT",
+      "US_SSN"
+    ],
+    "CONTACT": [
+      "EMAIL",
+      "EMAIL_ADDRESS",
+      "IP_ADDRESS",
+      "MAC_ADDRESS",
+      "PHONE_NUMBER"
+    ],
+    "LINKABLE": [
+      "LOCATION",
+      "NRP",
+      "ORGANIZATION"
+    ],
+    "MIN_SCORE_CRITICAL": 0.5,
+    "MIN_SCORE_OTHER": 0.4,
+    "HIGH": "any critical identifier",
+    "MEDIUM": "any contact identifier OR (PERSON and any of LOCATION/ORGANIZATION/NRP)",
+    "LOW": "otherwise"
+  },
+  "overall_metrics": [
+    {
+      "system": "always_LOW",
+      "accuracy": 0.58,
+      "precision_macro": 0.19333333333333333,
+      "recall_macro": 0.3333333333333333,
+      "f1_macro": 0.24472573839662448,
+      "precision_weighted": 0.3364,
+      "recall_weighted": 0.58,
+      "f1_weighted": 0.42582278481012664,
+      "precision_micro": 0.58,
+      "recall_micro": 0.58,
+      "f1_micro": 0.58
+    },
+    {
+      "system": "Presidio_baseline",
+      "accuracy": 0.524,
+      "precision_macro": 0.26865079365079364,
+      "recall_macro": 0.329640097983795,
+      "f1_macro": 0.28851392181471663,
+      "precision_weighted": 0.39185238095238095,
+      "recall_weighted": 0.524,
+      "f1_weighted": 0.4421330358387951,
+      "precision_micro": 0.524,
+      "recall_micro": 0.524,
+      "f1_micro": 0.524
+    },
+    {
+      "system": "model",
+      "accuracy": 0.728,
+      "precision_macro": 0.7215296714712375,
+      "recall_macro": 0.6220583448961062,
+      "f1_macro": 0.6301836916591016,
+      "precision_weighted": 0.754755746007012,
+      "recall_weighted": 0.728,
+      "f1_weighted": 0.7184056718646883,
+      "precision_micro": 0.728,
+      "recall_micro": 0.728,
+      "f1_micro": 0.728
+    }
+  ],
+  "per_class_metrics": [
+    {
+      "system": "always_LOW",
+      "class": "LOW",
+      "precision": 0.58,
+      "recall": 1.0,
+      "f1": 0.7341772151898734,
+      "support": 145
+    },
+    {
+      "system": "always_LOW",
+      "class": "MEDIUM",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 61
+    },
+    {
+      "system": "always_LOW",
+      "class": "HIGH",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 44
+    },
+    {
+      "system": "Presidio_baseline",
+      "class": "LOW",
+      "precision": 0.580952380952381,
+      "recall": 0.8413793103448276,
+      "f1": 0.6873239436619718,
+      "support": 145
+    },
+    {
+      "system": "Presidio_baseline",
+      "class": "MEDIUM",
+      "precision": 0.225,
+      "recall": 0.14754098360655737,
+      "f1": 0.1782178217821782,
+      "support": 61
+    },
+    {
+      "system": "Presidio_baseline",
+      "class": "HIGH",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 44
+    },
+    {
+      "system": "model",
+      "class": "LOW",
+      "precision": 0.8410596026490066,
+      "recall": 0.8758620689655172,
+      "f1": 0.8581081081081081,
+      "support": 145
+    },
+    {
+      "system": "model",
+      "class": "MEDIUM",
+      "precision": 0.5,
+      "recall": 0.6721311475409836,
+      "f1": 0.5734265734265734,
+      "support": 61
+    },
+    {
+      "system": "model",
+      "class": "HIGH",
+      "precision": 0.8235294117647058,
+      "recall": 0.3181818181818182,
+      "f1": 0.45901639344262296,
+      "support": 44
+    }
+  ],
+  "confusion_matrices_rows_true_cols_pred": {
+    "always_LOW": [
+      [
+        145,
+        0,
+        0
+      ],
+      [
+        61,
+        0,
+        0
+      ],
+      [
+        44,
+        0,
+        0
+      ]
+    ],
+    "Presidio_baseline": [
+      [
+        122,
+        23,
+        0
+      ],
+      [
+        52,
+        9,
+        0
+      ],
+      [
+        36,
+        8,
+        0
+      ]
+    ],
+    "model": [
+      [
+        127,
+        18,
+        0
+      ],
+      [
+        17,
+        41,
+        3
+      ],
+      [
+        7,
+        23,
+        14
+      ]
+    ]
+  },
+  "class_order": [
+    "LOW",
+    "MEDIUM",
+    "HIGH"
+  ]
+}

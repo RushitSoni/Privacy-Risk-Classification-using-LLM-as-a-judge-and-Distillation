@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "run_name": "privacy_v7_epoch3",
+    "model_id": "answerdotai/ModernBERT-base",
+    "test_file": "survey_with_label3.csv",
+    "text_col": "text",
+    "label_col": "label3",
+    "n_rows": 250,
+    "n_scored": 250,
+    "n_empty_text": 0,
+    "max_length": 2048,
+    "batch_size": 64,
+    "gpu": "NVIDIA A10",
+    "labels": [
+      "LOW",
+      "MEDIUM",
+      "HIGH"
+    ],
+    "finished_utc": "2026-09-22 13:42:33",
+    "seconds": 8.4,
+    "rows_per_sec": 29.9
+  },
+  "model_training_reference": {
+    "n_train": 5400,
+    "train_file": "/train_inputs/final_train.csv",
+    "validation_accuracy": 0.8566666666666667,
+    "validation_f1_macro": 0.8577371318400763
+  },
+  "predicted_distribution": {
+    "LOW": 151,
+    "MEDIUM": 82,
+    "HIGH": 17
+  },
+  "confidence": {
+    "mean": 0.9536762237548828,
+    "mean_when_correct": 0.961502730846405,
+    "mean_when_wrong": 0.9327285289764404
+  },
+  "evaluation": {
+    "n_evaluated": 250,
+    "accuracy": 0.728,
+    "precision_macro": 0.7215296714712375,
+    "recall_macro": 0.6220583448961062,
+    "f1_macro": 0.6301836916591016,
+    "f1_weighted": 0.7184056718646883,
+    "macro_averaged_over": [
+      "LOW",
+      "MEDIUM",
+      "HIGH"
+    ],
+    "per_class": {
+      "LOW": {
+        "precision": 0.8410596026490066,
+        "recall": 0.8758620689655172,
+        "f1": 0.8581081081081081,
+        "support": 145,
+        "predicted_count": 151
+      },
+      "MEDIUM": {
+        "precision": 0.5,
+        "recall": 0.6721311475409836,
+        "f1": 0.5734265734265734,
+        "support": 61,
+        "predicted_count": 82
+      },
+      "HIGH": {
+        "precision": 0.8235294117647058,
+        "recall": 0.3181818181818182,
+        "f1": 0.45901639344262296,
+        "support": 44,
+        "predicted_count": 17
+      }
+    },
+    "confusion_matrix": {
+      "labels": [
+        "LOW",
+        "MEDIUM",
+        "HIGH"
+      ],
+      "rows_are": "ground_truth",
+      "cols_are": "predicted",
+      "matrix": [
+        [
+          127,
+          18,
+          0
+        ],
+        [
+          17,
+          41,
+          3
+        ],
+        [
+          7,
+          23,
+          14
+        ]
+      ]
+    }
+  },
+  "ground_truth_quality": {
+    "n_missing_ground_truth": 0,
+    "unseen_ground_truth_values": {}
+  },
+  "ground_truth_distribution": {
+    "LOW": 145,
+    "MEDIUM": 61,
+    "HIGH": 44
+  }
+}

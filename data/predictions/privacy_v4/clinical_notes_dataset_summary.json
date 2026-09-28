@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "run_name": "privacy_v4",
+    "model_id": "answerdotai/ModernBERT-base",
+    "test_file": "clinical_notes_dataset.csv",
+    "text_col": "text",
+    "label_col": "ground_truth",
+    "n_rows": 1602,
+    "n_scored": 1602,
+    "n_empty_text": 0,
+    "max_length": 2048,
+    "batch_size": 64,
+    "gpu": "NVIDIA A10G",
+    "labels": [
+      "LOW",
+      "MEDIUM",
+      "HIGH"
+    ],
+    "finished_utc": "2026-09-21 14:39:13",
+    "seconds": 16.6,
+    "rows_per_sec": 96.4
+  },
+  "model_training_reference": {
+    "n_train": 5400,
+    "train_file": "/train_inputs/final_train.csv",
+    "validation_accuracy": 0.8583333333333333,
+    "validation_f1_macro": 0.859446202778627
+  },
+  "predicted_distribution": {
+    "LOW": 0,
+    "MEDIUM": 128,
+    "HIGH": 1474
+  },
+  "confidence": {
+    "mean": 0.9595034122467041,
+    "mean_when_correct": 0.972224771976471,
+    "mean_when_wrong": 0.8130085468292236
+  },
+  "evaluation": {
+    "n_evaluated": 1602,
+    "accuracy": 0.920099875156055,
+    "precision_macro": 1.0,
+    "recall_macro": 0.920099875156055,
+    "f1_macro": 0.9583875162548765,
+    "f1_weighted": 0.9583875162548765,
+    "macro_averaged_over": [
+      "HIGH"
+    ],
+    "per_class": {
+      "LOW": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0,
+        "predicted_count": 0
+      },
+      "MEDIUM": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 0,
+        "predicted_count": 128
+      },
+      "HIGH": {
+        "precision": 1.0,
+        "recall": 0.920099875156055,
+        "f1": 0.9583875162548765,
+        "support": 1602,
+        "predicted_count": 1474
+      }
+    },
+    "confusion_matrix": {
+      "labels": [
+        "LOW",
+        "MEDIUM",
+        "HIGH"
+      ],
+      "rows_are": "ground_truth",
+      "cols_are": "predicted",
+      "matrix": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          128,
+          1474
+        ]
+      ]
+    }
+  },
+  "ground_truth_quality": {
+    "n_missing_ground_truth": 0,
+    "unseen_ground_truth_values": {}
+  },
+  "ground_truth_distribution": {
+    "LOW": 0,
+    "MEDIUM": 0,
+    "HIGH": 1602
+  }
+}

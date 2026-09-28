@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "run_name": "privacy_v4",
+    "model_id": "answerdotai/ModernBERT-base",
+    "test_file": "synthetic_chatgpt_classified.csv",
+    "text_col": "text",
+    "label_col": "privacy_leak_level",
+    "n_rows": 250,
+    "n_scored": 250,
+    "n_empty_text": 0,
+    "max_length": 2048,
+    "batch_size": 64,
+    "gpu": "NVIDIA A10",
+    "labels": [
+      "LOW",
+      "MEDIUM",
+      "HIGH"
+    ],
+    "finished_utc": "2026-09-20 14:19:48",
+    "seconds": 3.6,
+    "rows_per_sec": 69.7
+  },
+  "model_training_reference": {
+    "n_train": 5400,
+    "train_file": "/train_inputs/final_train.csv",
+    "validation_accuracy": 0.8583333333333333,
+    "validation_f1_macro": 0.859446202778627
+  },
+  "predicted_distribution": {
+    "LOW": 86,
+    "MEDIUM": 98,
+    "HIGH": 66
+  },
+  "confidence": {
+    "mean": 0.9741440415382385,
+    "mean_when_correct": 0.9839577674865723,
+    "mean_when_wrong": 0.8993568420410156
+  },
+  "evaluation": {
+    "n_evaluated": 250,
+    "accuracy": 0.884,
+    "precision_macro": 0.8956892129649604,
+    "recall_macro": 0.8836775674125071,
+    "f1_macro": 0.8839268615600046,
+    "f1_weighted": 0.884202918819647,
+    "macro_averaged_over": [
+      "LOW",
+      "MEDIUM",
+      "HIGH"
+    ],
+    "per_class": {
+      "LOW": {
+        "precision": 0.9418604651162791,
+        "recall": 0.9642857142857143,
+        "f1": 0.9529411764705882,
+        "support": 84,
+        "predicted_count": 86
+      },
+      "MEDIUM": {
+        "precision": 0.7755102040816326,
+        "recall": 0.9156626506024096,
+        "f1": 0.8397790055248618,
+        "support": 83,
+        "predicted_count": 98
+      },
+      "HIGH": {
+        "precision": 0.9696969696969697,
+        "recall": 0.7710843373493976,
+        "f1": 0.8590604026845637,
+        "support": 83,
+        "predicted_count": 66
+      }
+    },
+    "confusion_matrix": {
+      "labels": [
+        "LOW",
+        "MEDIUM",
+        "HIGH"
+      ],
+      "rows_are": "ground_truth",
+      "cols_are": "predicted",
+      "matrix": [
+        [
+          81,
+          3,
+          0
+        ],
+        [
+          5,
+          76,
+          2
+        ],
+        [
+          0,
+          19,
+          64
+        ]
+      ]
+    }
+  },
+  "ground_truth_quality": {
+    "n_missing_ground_truth": 0,
+    "unseen_ground_truth_values": {}
+  },
+  "ground_truth_distribution": {
+    "LOW": 84,
+    "MEDIUM": 83,
+    "HIGH": 83
+  }
+}

@@ -1,0 +1,10 @@
+class,corpus,available,unanimous_available,taken,taken_unanimous,taken_majority_only
+LOW,nemotron,747,365,747,365,382
+LOW,wnut17,2915,2687,621,621,0
+LOW,enron,2965,1888,632,632,0
+MEDIUM,nemotron,1546,554,1224,554,670
+MEDIUM,wnut17,57,2,57,2,55
+MEDIUM,enron,909,286,719,286,433
+HIGH,nemotron,2559,1471,1918,1471,447
+HIGH,wnut17,14,3,14,3,11
+HIGH,enron,68,11,68,11,57

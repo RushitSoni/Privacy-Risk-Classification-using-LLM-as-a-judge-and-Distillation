@@ -1,0 +1,726 @@
+id,text,privacy_leak_level
+1,"Hi team, quick reminder regarding our upcoming quarterly planning session next Tuesday at 10:00 AM in Conference Room B. Please make sure to review the draft agenda attached to the calendar invite and bring your updated project timelines. We will spend the first thirty minutes covering key milestones, followed by breakout discussions on resource allocation for Q3. Coffee and light refreshments will be provided.",LOW
+2,"Dear Valued Customer, thank you for reaching out to customer support regarding your recent order placement. We have confirmed that shipment #88491 was processed this morning and is currently en route to the distribution hub in Denver. You can monitor progress through our tracking portal using your order reference. If you require further assistance or need to modify delivery preferences, feel free to reply directly to this ticket.",LOW
+3,"Subject: Facility Maintenance Schedule - Floor 4
+
+Please be advised that routine HVAC maintenance is scheduled for Floor 4 this coming Saturday between 8:00 AM and 2:00 PM. Noise levels will be minimal, but temperatures may fluctuate slightly while technicians service the handling units. Staff members planning to work weekend hours are encouraged to utilize hot desks on Floor 3 during this timeframe. Thank you for your cooperation.",LOW
+4,"Community Forum Post: Looking for recommendations on reliable project management software for a small creative team of six people. We currently rely on basic spreadsheets and email chains, but tracking deliverables across simultaneous client campaigns is becoming chaotic. Key priorities include simple task assignment, automated deadline reminders, and clean visual dashboards. Any suggestions or experiences with tools like Trello, Asana, or Monday.com would be greatly appreciated!",LOW
+5,"Patient presented for routine annual wellness examination. Reports overall good health with no new acute complaints. Vitals recorded within normal limits: Blood Pressure 118/76 mmHg, Pulse 68 bpm, Temperature 98.4 F, BMI 22.4. Refills authorized for daily multivitamin. Lab orders placed for routine lipid panel and complete blood count as part of standard preventive protocol. Advised to follow up in twelve months or sooner if concerns arise.",LOW
+6,"Internal Memorandum: Operational Workflow Updates
+
+Effective next month, all expense reimbursement requests must be submitted through the newly deployed portal rather than email attachments. Receipts over twenty-five dollars remain mandatory. Department managers are requested to approve submitted claims within five business days to avoid processing delays. Training modules explaining system navigation have been posted to the employee intranet portal under the Administrative Tools section.",LOW
+7,"Hey Sarah! Hope you're having a great week. Just checking in to see if you still wanted to catch up over lunch on Thursday. I found this nice Italian spot downtown near the park that opened last month. Let me know what time works best for your schedule—around 12:30 PM usually works best for me, but I can adjust if needed.",LOW
+8,"Customer Record Notes - Account ID #39201
+Account holder called to inquire about promotional rates for contract renewal. Informed customer that current tier remains eligible for a 10% loyalty discount applied to the upcoming billing cycle. Customer expressed satisfaction with service quality and opted to renew the twelve-month agreement. Confirmation sent via standard account notification.",LOW
+9,"Billing Inquiry Note: Patient called regarding statement dated August 12th. Clarified that insurance coverage was applied primary to the outpatient laboratory panel, leaving a minor copay balance of thirty dollars. Patient agreed to clear balance using the online payment portal. Receipt generated automatically upon successful transaction processing.",LOW
+10,"Team, please join me in welcoming Alex Rivera to the Operations group starting today as our new Logistics Coordinator. Alex brings over six years of supply chain experience, previously working in regional distribution management. Alex will be situated at Desk 412 on the main floor. Feel free to stop by and introduce yourselves during morning coffee!",LOW
+11,"The monthly software patch rollout will occur tonight starting at 11:00 PM EST. Core servers will undergo brief restarts, resulting in temporary downtime of approximately fifteen minutes across external client portals. Database backups have completed successfully. Operations teams will monitor telemetry throughout the maintenance window.",LOW
+12,"Appointment Confirmation: Your dental cleaning appointment with Dr. Aris Thorne is scheduled for September 14th at 9:15 AM at the Northside Health Center. Please arrive ten minutes early to complete standard check-in paperwork. If you need to reschedule or cancel, notify our office at least 24 hours prior to avoid late cancellation fees.",LOW
+13,To All Department Heads: The annual budgeting template for the upcoming fiscal year is now available on the shared network drive. Please ensure all projected capital expenditures and staffing requisitions are submitted to finance no later than October 15th. Guidelines for remote worker equipment stipends are updated in Section 4.,LOW
+14,"Support Ticket #49102: User reported difficulty connecting to office printer on Floor 2. Technician visited station, updated local print drivers, and verified network port connectivity. Test page printed successfully. Issue closed as resolved. No further intervention required.",LOW
+15,"Hey Marcus, do you happen to have the slide deck from yesterday's product strategy meeting? I missed the last twenty minutes due to a client conflict and wanted to review the roadmap items discussed for Q4 launch features. Thanks!",LOW
+16,"Vendor Assessment Summary: Evaluation of three candidate vendors for office supply procurement completed. Criteria included pricing structure, delivery timelines, and sustainability certifications. Recommendation submitted to procurement committee favoring OfficeMax Solutions based on contract flexibility and bulk pricing tiers.",LOW
+17,Patient visited clinic for routine follow-up regarding hypertension management. Patient reports consistent compliance with prescribed dietary adjustments and moderate daily walking exercise. BP today measured 124/80 mmHg. Continued present dose of Lisinopril 10mg daily. Scheduled return visit in six months.,LOW
+18,"HR Notice: Open enrollment for health insurance plans begins next Monday, October 2nd, and run through November 15th. Detailed plan comparison documents and schedule for informational webinar sessions have been uploaded to the employee benefits portal.",LOW
+19,Public Forum Post: Does anyone know if the city library branch on Elm Street has quiet study rooms available for reservation on weekends? Working on my graduate thesis and need a quiet space with reliable Wi-Fi for several hours this Saturday.,LOW
+20,Weekly Logistics Report: Regional transit delays impacted distribution schedules in the Northeast sector by an average of six hours. Inventory levels remain sufficient at central hub. Emergency buffer stocks deployed to prevent stockouts in major retail branches.,LOW
+21,"Customer Inquiry: I placed an order three days ago under reference number #99281 and haven't received a tracking update yet. Could someone check if the item has shipped from the warehouse? Thanks, David.",LOW
+22,"Clinical Note: Patient reports mild seasonal allergy symptoms including nasal congestion and minor throat irritation. No fever, cough, or respiratory distress noted. Recommended over-the-counter antihistamines as needed during pollen season.",LOW
+23,Memo to Staff: The annual fire drill is scheduled for this Thursday at 2:00 PM. All employees must evacuate the building immediately upon alarm sounding and assemble at designated points in the south parking lot.,LOW
+24,"Personal Message: Hey Jen, thanks for sending over those recipe ideas! The lemon herb chicken was a huge hit with the family last night. Definitely adding that into our regular dinner rotation.",LOW
+25,IT Helpdesk Note: Reset domain password for user following account lock. User verified identity via secondary authentication code. User successfully logged into workstation.,LOW
+26,Billing Record: Monthly subscription fee for Enterprise Cloud Tier processed successfully. Invoice #INV-88391 sent to accounting department for standard monthly record keeping.,LOW
+27,Medical Note: Patient completed 10-day course of prescribed oral antibiotics for mild skin infection. Physical exam reveals full resolution of localized redness and swelling. No further medication indicated.,LOW
+28,Project Status: Phase 1 database migration completed ahead of schedule. Data integrity checks passed with zero errors detected. Phase 2 application deployment scheduled for next sprint.,LOW
+29,Customer Support: Client called regarding billing discrepancy on recent invoice. Confirmed incorrect promo code application. Issued credit memorandum for $45.00 to balance account.,LOW
+30,HR Record: Attendance log update for quarter ending September 30. Employee accrued 15 days paid leave and utilized 4 days for personal time. Balance carried forward according to policy.,LOW
+31,Internal Email: Reminder to all team members that timecard submissions for the current pay period close on Friday at 5:00 PM sharp. Please review hours worked and submit for manager approval.,LOW
+32,Patient Chart Note: Patient presented for routine vision checkup. Refraction test completed. Minor adjustments made to spherical correction for reading glasses. Prescriptions updated.,LOW
+33,Forum Post: What are the best practices for setting up Docker containers in a local development environment? Looking for light configurations that won't overwhelm RAM.,LOW
+34,"Facility Log: Restroom maintenance on 2nd floor completed at 11:30 AM. Sanitation, soap refilling, and towel dispenser restocks executed according to daily checklist.",LOW
+35,Workplace Communication: Great job everyone on closing the Q2 sales targets! The hard work across all sales teams resulted in a 14% year-over-year increase in client acquisitions.,LOW
+36,Billing Summary: Insurance claim #CLM-20491 approved by primary payer. Co-insurance balance of $15.50 billed directly to guarantor profile. Statement dispatched via post.,LOW
+37,"Personal Note: Hey Tom, let me know if you want to play tennis this Saturday morning around 9 AM at the municipal courts near the reservoir.",LOW
+38,Clinical Visit Note: Physical therapy session 4 of 6 completed. Patient demonstrated improved range of motion in right shoulder abduction. Continued rotator cuff strengthening exercises.,LOW
+39,HR Update: Quarterly performance evaluations are now open in the HRIS portal. Self-evaluations should be completed prior to meeting with department directors next week.,LOW
+40,Support Escalation: Ticket #11204 escalated to Level 2 engineering. Issue involves intermittent API timeout errors occurring during peak traffic hours.,LOW
+41,Appointment Note: Routine dental cleaning rescheduled from October 4 to October 18 at 3:00 PM per patient request. Calendar entry updated.,LOW
+42,Inventory Log: Warehouse A received shipment of 500 office chairs. All units inspected for damage and cataloged in central asset tracking system.,LOW
+43,Internal Memo: Travel reimbursement policy revised. Per diem meal allowance increased to $65 per day effective starting next month for domestic travel.,LOW
+44,Medical Record Summary: Patient attended follow-up for sprained left ankle. Swelling resolved. Patient cleared for full weight-bearing activities without brace.,LOW
+45,Customer Email: Requesting cancellation of recurring membership account #7731. Reason provided: relocated out of service area. Cancellation processed.,LOW
+46,Team Announcement: Monthly all-hands meeting shifted to Thursday at 3:00 PM due to executive schedule conflicts. Remote stream link remains unchanged.,LOW
+47,Lab Note: Fasting blood glucose level measured at 92 mg/dL. Normal physiological limits maintained. Results uploaded to online portal for patient review.,LOW
+48,Forum Question: Has anyone experienced issues with Wi-Fi dropouts after updating to the latest macOS release? Looking for potential network setting fixes.,LOW
+49,HR Communication: Desk relocation for marketing department planned for Friday afternoon. Please pack all personal items and label boxes clearly by noon.,LOW
+50,Billing Record: Account #44102 updated payment method from Visa ending in 4012 to Mastercard ending in 8831. Automatic billing active.,MEDIUM
+51,Customer Service Ticket: Customer called inquiring about warranty coverage for model XR-500 laptop purchased 14 months ago. Extended coverage verified.,LOW
+52,Medical Note: Patient received annual influenza vaccination in right deltoid. No adverse reaction observed during 15-minute post-injection waiting period.,LOW
+53,Operations Memo: Energy conservation initiative starts next week. Lights and monitors in unoccupied conference rooms should be turned off when leaving.,LOW
+54,Personal Chat: Thanks for holding onto my keys yesterday! I'll swing by your office around lunchtime to grab them.,LOW
+55,Patient Chart: Dermatology consult completed for minor rash on forearm. Prescribed hydrocortisone 1% topical cream to apply twice daily as needed.,LOW
+56,Vendor Update: Software supplier released patch 4.2.1 addressing minor user interface bugs. Update queued for deployment during standard weekend window.,LOW
+57,HR Notice: Reminder to complete annual cybersecurity awareness training module by end of month. Compliance tracking managed via learning management system.,LOW
+58,Billing Note: Statement issued for invoice #88192. Total balance $120.00 due within 30 days. Payment instructions included on reverse side of form.,LOW
+59,Public Forum: What are some good dog-friendly hiking trails within a 45-minute drive of downtown Seattle? Looking for moderate difficulty loops.,LOW
+60,"Clinical Note: Patient reports satisfactory recovery following minor outpatient procedure. Incision site clean, dry, and intact. Suture removal scheduled for next week.",LOW
+61,Internal Email: Please review the updated brand guidelines document attached. New logo placement rules apply to all external presentation materials.,LOW
+62,Customer Support: Order #40129 updated to store pickup status. Customer notified via automated SMS text notification.,LOW
+63,Appointment Note: Follow-up visit scheduled for pediatric wellness check on November 12 at 10:00 AM. Vaccine schedule review planned.,LOW
+64,Workplace Note: Building management announced tap water filter replacements will occur on Wednesday morning. Bottled water available in breakroom.,LOW
+65,Medical Note: Dietary consult completed. Patient provided educational material regarding low-sodium options to support cardiac health maintenance.,LOW
+66,HR Record: Benefit enrollment confirmation form processed for new employee hire. Standard medical and dental coverage active starting first of month.,LOW
+67,"Personal SMS: Hey, running about 5 minutes late due to traffic on Main Street. Hold our table if you get there first!",LOW
+68,IT Ticket: Request #88219 for extra monitor fulfilled. Hardware installed at workstation 104 and display settings verified.,LOW
+69,Billing Note: Account #99102 refund processed for returned merchandise. $34.50 credited back to primary credit card account.,LOW
+70,"Clinical Chart: Patient reports mild tension headaches occurring twice weekly. Advised hydration, stress management, and ergonomic adjustments at work desk.",LOW
+71,Memo: Office holiday schedule announced. Operations will close at 1:00 PM on Christmas Eve and remain closed through New Year's Day.,LOW
+72,Forum Post: Recommend best books on learning Python for data analysis for beginners with no prior programming experience?,LOW
+73,Customer Note: Customer requested address update for monthly catalog mailing. Account record amended per user submission.,LOW
+74,Medical Note: Podiatry follow-up. Orthotic insoles adjusted for Arch support. Patient reports improved comfort during walking.,LOW
+75,HR Notice: Management training workshop scheduled for October 24. Supervisors expected to attend morning sessions on team leadership.,LOW
+76,Internal Email: Final budget review for marketing campaign scheduled for tomorrow morning. Please submit final numbers to channel lead.,LOW
+77,Billing Summary: Payment of $450.00 received for invoice #44012. Account balance reflecting zero remaining balance.,LOW
+78,Patient Note: Otolaryngology consult. Ear canal exam normal. Tympanic membranes clear bilaterally. Hearing assessment within age-appropriate limits.,LOW
+79,Support Ticket: Resolved login issue for customer portal by clearing browser cache and resetting authentication cookies.,LOW
+80,"Personal Message: Did you see the weather forecast for Sunday? Looks like rain all day, so we might need to move the picnic indoors.",LOW
+81,"HR Record - Performance Review Discussion
+
+Employee: Marcus Vance (Employee ID #MV-88392)
+Department: Regional Logistics - Chicago Operations Hub
+Manager: Rachel Miller
+
+Marcus has consistently met operational metrics this quarter, achieving a 98% on-time dispatch rate. However, recent tardiness issues were noted on three occasions last month. Marcus explained that personal family responsibilities were conflicting with morning shifts. We agreed to adjust his schedule to a 9:00 AM start time starting next week to assist with work-life balance.",MEDIUM
+82,"Medical Record - Outpatient Visit
+Patient Name: Eleanor Vance
+DOB: 04/12/1982
+Provider: Dr. Harrison Vance
+Clinic: Greenfield Family Medicine
+
+Eleanor presented today discussing ongoing struggles with chronic fatigue and mild anxiety over the past three months. Reports difficulty sleeping, waking up multiple times per night. She mentioned recent work stressors in her accounting firm. We discussed sleep hygiene strategies and ordered basic thyroid screening labs. Follow-up scheduled in four weeks to review blood work.",HIGH
+83,"Customer Support Escalation Ticket #88392
+Customer Name: Robert Chen
+Email: r.chen78@webmail.com
+Phone: (555) 392-8819
+Address: 1428 Elmwood Ave, Evanston, IL
+
+Customer called expressing frustration over repeated billing errors on account #AC-99201. He states that an unauthorized recurring charge of $49.99 has appeared on his credit card statement for three consecutive months. Requested immediate refund and account termination. Agent verified identity via phone number and billing address. Refund request forwarded to billing operations.",HIGH
+84,"Internal HR Memo - Leave Request Approval
+To: Payroll Operations
+From: HR Benefits Desk
+Re: FMLA Request - David Miller (ID #DM-4029)
+
+This memo confirms that David Miller from the IT Infrastructure department has been approved for intermittent FMLA leave starting October 1st to assist with elderly parent care. David lives at 405 Oak Street in Austin, TX. He will be taking approximately two days off per month. Please update payroll records accordingly to ensure proper leave tracking without impacting his standard benefits allocation.",HIGH
+85,"Appointment Confirmation Note
+Patient: Sophia Martinez
+Phone: (555) 849-2019
+Location: Westside Women's Health, Suite 300
+Date: October 14, 2026 at 2:30 PM
+
+Dear Sophia, this confirms your upcoming appointment with Dr. Linda Thorne for your annual gynecological exam. Please bring your insurance card (BlueCross Member ID #XYZ-90218) and a government-issued photo ID. If you live at your updated address on Fairview Lane, no further demographic verification is required at check-in.",HIGH
+86,"Internal Workplace Chat log
+User: Thomas Wright (Sales Manager)
+User: Jessica Taylor (HR Representative)
+
+Thomas: Hey Jessica, quick question regarding Samantha Brooks in marketing. She mentioned she needed to adjust her direct deposit info because she changed banks recently.
+Jessica: Thanks Thomas. Have her log into the Workday portal or call me at ext 4402. I'll need her new routing number and account ending digits to verify before processing.",MEDIUM
+87,"Customer Record - Billing Dispute
+Account Name: Arthur Pendelton
+Contact Phone: 555-234-9912
+Residential Address: 882 Maple Court, Apt 4B, Springfield
+
+Client contacted service team regarding delinquent account notice sent to his residence. Mr. Pendelton noted that payments were auto-debited from his checking account ending in 4419. Verification showed a temporary hold placed by his financial institution following suspected fraudulent activity last month. Balance cleared manually today.",HIGH
+88,"Clinical Note - Urgent Care Center
+Patient: Benjamin Hayes
+Age: 45
+Contact: ben.hayes@email provider.net
+
+Patient presented with acute low back pain following heavy lifting at home. Pain scale 6/10. No radiation down legs. History reveals previous lumbar strain two years ago. Prescribed muscle relaxant and physical therapy evaluation. Patient resides alone at 312 Pine Ridge Road and requested work excuse letter for his employer, Apex Logistics.",HIGH
+89,"Email Thread - HR Department
+From: klarsen@company.org
+To: payroll@company.org
+Subject: Employee Name Change & Benefits Update
+
+Hello Team, please update employee record #49201. Karen Larsen (formerly Karen Smith) recently married and submitted legal documentation for name change. Her new primary address is 904 Cedar Avenue, Apt 12, Portland, OR. Please re-issue her health insurance card under the new surname and update primary beneficiary details as requested.",HIGH
+90,"Forum Post - Community Support Group
+User: HopefulRunner88 (Verified Profile: Clara Jenkins, Ohio)
+
+Hi everyone, I was diagnosed with early-stage rheumatoid arthritis last month at age 34. My rheumatologist at Cleveland Clinic recommended starting Methotrexate. I'm feeling pretty overwhelmed balancing this with my job as a middle school teacher and caring for my two young kids. Has anyone else managed fatigue while working full-time? Would love to hear advice on pacing daily activities.",HIGH
+91,"Billing & Claims Note - Metro Health
+Guarantor: Gregory Vance
+Patient: Lucas Vance (Minor)
+Claim Ref: #CLM-90281
+Address: 711 Birch Street, Denver, CO
+
+Services rendered on 08/15/2026 included pediatric ear infection evaluation and antibiotic prescription. Primary insurance covered $120.00. Outstanding balance of $35.00 billed to guarantor Gregory Vance at home address. Second notice generated following non-payment after 30 days.",HIGH
+92,"Workplace Email - Team Restructuring
+From: management@techfirm.io
+To: Engineering-Team
+
+Following performance evaluations, we are adjusting project lead roles. Daniel Craig (Employee ID #DC-301) will transition to Principal Architect for Cloud Services. Daniel has been with us at the Seattle headquarters for five years. His updated office room number is 502-B, and his internal extension is 8841. Direct all architecture review tickets to his queue.",MEDIUM
+93,"Customer Care Note - Travel Booking
+Passenger: Laura Higgins
+Confirmation Code: #TX-883910
+Phone: (555) 771-0029
+Email: laura.higgins@webmail.com
+
+Customer called to modify flight reservation due to family emergency. Rebooked flight from Chicago (ORD) to Miami (MIA) for October 12th. Applied standard change fee waiver per supervisor approval. Customer confirmed contact details and mailing address in Naperville, IL remain current.",HIGH
+94,"Medical Progress Note
+Patient: Harvey Specter
+DOB: 11/03/1968
+Chart ID: #HS-4092
+
+Patient seen for quarterly diabetes check. HbA1c today is 7.2%, down from 7.8% three months ago. Patient reports consistent adherence to Metformin 1000mg twice daily and regular walking. Expressed worry about prescription costs following recent insurance coverage changes through his employer. Social worker consultation referral submitted.",HIGH
+95,"Personal Email Message
+From: mark.davis82@email.com
+To: travel-buddies@email.com
+Subject: Cabin Reservation Details
+
+Hey guys, I booked the cabin for our trip next month! The total came out to $650. You can Venmo me your share at @Mark-Davis-82 or send it via Zelle using my phone number 555-839-2001. The cabin address is 441 Mountain Laurel Way, Asheville, NC. Can't wait for hiking!",HIGH
+96,"HR Grievance Log
+Complainant: Megan Foster (ID #MF-9021)
+Department: Customer Operations
+Date Filed: September 02, 2026
+
+Megan Foster submitted a workplace environment complaint regarding supervisor interactions in the San Antonio call center. States manager repeatedly commented on her personal appearance and attendance record following her return from maternity leave. HR representative assigned to conduct confidential interviews with team members.",HIGH
+97,"Appointment Note - Cardiology Clinic
+Patient: Walter Ross
+Phone: (555) 302-1192
+Address: 1209 Willow Lane, Phoenix, AZ
+
+Patient called to reschedule echocardiogram scheduled for Friday. Stated transportation difficulties following recent knee surgery. Appointment moved to November 3rd at 11:00 AM. Patient reminded to bring complete list of current medications and insurance card.",HIGH
+98,"Support Ticket - Banking App
+User Profile: Julian Thorne
+User ID: #JT-99201
+Email: jthorne@email.com
+
+User requested assistance resetting two-factor authentication device after replacing lost smartphone. Security questions verified using home zip code (80204) and mother's maiden name. SMS verification sent to mobile number ending in -4019. Device successfully re-registered.",HIGH
+99,"Medical Summary Note
+Patient: Beatrice Vance
+Age: 72
+Facility: Sun Valley Senior Living, Rm 214
+
+Beatrice evaluated following minor fall in hallway. No loss of consciousness or head trauma. Minor bruising on right forearm. History of osteoporosis and mild cognitive decline noted. Son, Charles Vance (555-902-3341), notified of incident. Vital signs stable.",HIGH
+100,"HR Onboarding Record
+Candidate: Nathan Drake
+Role: Senior Systems Engineer
+Start Date: October 1, 2026
+Address: 502 Highland Ave, Atlanta, GA
+
+Background check and background verification completed successfully. Equipment shipment dispatched to home address containing laptop and security token. Emergency contact listed as Elena Drake (Wife, 555-402-9911).",HIGH
+101,"Customer Service Note: Call received from Sandra Bullock regarding balance on account #SB-9012. Customer requested invoice copy sent to her personal email address (sandra.b@webmail.org). Home address confirmed as 704 Cedar Drive, Dallas, TX.",HIGH
+102,Clinical Chart: Patient Oliver Queen presented with complaints of persistent insomnia and workplace stress. Patient works night shifts in security logistics. Recommended sleep hygiene protocol and referred to occupational counselor.,MEDIUM
+103,Email to Accounting: Please issue reimbursement check for $340.50 to employee Brenda Walsh (ID #BW-2041) for regional travel expenses incurred during the September client summit.,MEDIUM
+104,"Patient Note: Hannah Abbott called to request prescription refill for asthma inhaler. Pharmacy on file confirmed as CVS Pharmacy on Main Street, Boston, MA.",MEDIUM
+105,"Forum Post: Hi everyone, I'm relocation to Austin next month for a job at a local biotech firm. Looking for apartment recommendations in safe neighborhoods with good commute options.",LOW
+106,HR Record: Performance improvement plan initiated for employee Kevin Spacey (ID #KS-1092) following consecutive missed project deadlines in Q2.,MEDIUM
+107,Support Ticket: Customer Pamela Anderson (Account #PA-8830) requested help updating primary phone number from 555-201-9022 to 555-883-1102 on account portal.,HIGH
+108,Medical Record: Patient George Clark evaluated for hypertension. BP reading 138/88 mmHg. Advised dietary reduction in sodium intake and routine exercise.,MEDIUM
+109,"Personal Note: Hey Chris, don't forget to pay your half of the electric bill ($85.00) before Friday. You can send it to my Zelle account.",LOW
+110,"Billing Note: Statement mailed to subscriber Victor Stone at 302 Washington Street, Detroit, MI regarding past-due internet utility balance of $62.00.",MEDIUM
+111,"Workplace Email: Team, please welcome Diana Prince to our San Francisco office. Diana joins as Senior Compliance Manager on Floor 6.",LOW
+112,Clinical Note: Patient Arthur Curry completed annual physical exam. All lab results unremarkable. Scheduled for follow-up in twelve months.,MEDIUM
+113,HR Memo: Leave of absence approved for employee Barry Allen (ID #BA-4012) starting October 15 for personal family matters.,MEDIUM
+114,Customer Support: Ticket resolved for user Bruce Wayne. Password reset link dispatched to registered email account.,MEDIUM
+115,Appointment Confirmation: Reminder sent to Clark Kent for dental checkup on Thursday at 10:00 AM at Downtown Dental Group.,MEDIUM
+116,Medical Progress: Patient Hal Jordan attending physical therapy for right knee rehabilitation following sport injury.,MEDIUM
+117,HR Record: Verification of employment letter issued for employee Lois Lane upon request for mortgage application processing.,MEDIUM
+118,Forum Post: Anyone experiencing delays with package deliveries in the Chicago metro area this week due to weather conditions?,LOW
+119,Billing Note: Account balance for client Peter Parker cleared via credit card payment of $150.00 on September 10.,MEDIUM
+120,Clinical Chart: Patient Mary Jane Watson evaluated for seasonal allergies. Recommended over-the-counter nasal spray as needed.,MEDIUM
+121,Workplace Memo: Office parking permits for Floor 3 staff available for pickup at central security desk starting Monday.,LOW
+122,Customer Ticket: User Tony Stark updated billing contact email for enterprise software license renewal notification.,MEDIUM
+123,Medical Note: Patient Steve Rogers received tetanus booster following minor superficial laceration sustained during yard work.,MEDIUM
+124,HR Update: Quarterly bonus distribution calculated for sales team members located at regional Northeast offices.,LOW
+125,"Personal Message: Hey Natasha, let me know when you're free this weekend to go over the travel itinerary for our vacation.",LOW
+126,Billing Inquiry: Patient Bruce Banner called regarding insurance copay explanation for recent outpatient blood testing.,MEDIUM
+127,Clinical Note: Patient Wanda Maximoff reported resolution of migraine symptoms following prescribed medication adjustment.,MEDIUM
+128,Support Ticket: Resolved account lock issue for customer James Rhodes after identity check confirmation.,MEDIUM
+129,Workplace Email: Direct deposit notification sent to employee Sam Wilson for pay period ending September 15.,MEDIUM
+130,Medical Summary: Patient Carol Danvers cleared for regular physical activity following complete healing of wrist fracture.,MEDIUM
+131,HR Record: Benefits enrollment confirmed for employee Scott Lang under standard healthcare plan tier 2.,MEDIUM
+132,Forum Post: Looking for recommended tools for backing up home media server configurations automatically.,LOW
+133,"Customer Record: Updated physical address on file for subscriber Hope van Dyne in Sacramento, CA.",MEDIUM
+134,Clinical Note: Patient T'Challa Udaku completed routine dermatological screening. No suspicious lesions identified.,MEDIUM
+135,Billing Statement: Monthly invoice issued to client Stephen Strange for professional consulting services rendered.,MEDIUM
+136,Workplace Communication: Shift schedule for IT on-call engineers posted on central operations board.,LOW
+137,Medical Record: Patient Peter Quill presented for occupational health screening. Vision and hearing tests passed.,MEDIUM
+138,HR Log: Employee Gamora Zen verified attendance records for remote work shifts during previous month.,MEDIUM
+139,Customer Support: Ticket created for user Rocket Raccoon regarding missing package shipment tracking.,MEDIUM
+140,"Personal SMS: Hey Groot, can you pick up milk on your way home from the grocery store tonight?",LOW
+141,Clinical Note: Patient Drax Destroyer advised on dietary guidelines for cholesterol management.,MEDIUM
+142,HR Record: Address verification form completed by employee Mantis Vrabel for tax filing records.,MEDIUM
+143,Billing Note: Account balance of $85.00 settled by customer Nick Fury via automated portal.,MEDIUM
+144,Medical Chart: Patient Maria Hill received routine tetanus booster during annual checkup.,MEDIUM
+145,Forum Post: Tips for maintaining indoor house plants during winter months in northern climates?,LOW
+146,Workplace Email: Meeting room calendar updated for conference room A reservations this afternoon.,LOW
+147,Customer Support: Reset multi-factor authentication for user Phil Coulson per phone request.,MEDIUM
+148,Medical Note: Patient Daisy Johnson attended follow-up appointment for routine blood pressure check.,MEDIUM
+149,HR Notice: Quarterly health wellness seminar dates posted on employee intranet bulletin.,LOW
+150,Billing Summary: Final notice dispatched to subscriber Melinda May for overdue account statement.,MEDIUM
+151,"CONFIDENTIAL HR INVESTIGATION FILE
+Employee Name: Jonathan Mercer
+SSN: XXX-XX-4920
+DOB: 03/14/1979
+Address: 412 Chestnut Street, Philadelphia, PA 19106
+Direct Line: (215) 555-0192
+Bank Routing: #031000013 | Account: #88392019482
+
+Summary: Mr. Mercer is under formal review following allegations of unauthorized financial transfers. On August 14th, payroll reported an unverified modification to his direct deposit details. Further audit revealed attached tax forms displaying full Social Security Number and driver's license ID #PA-9920182. Employee's corporate access has been temporarily suspended pending legal review.",HIGH
+152,"HIGHLY CONFIDENTIAL MEDICAL INTAKE
+Patient: Victoria Elizabeth Montgomery
+SSN: XXX-XX-8819
+DOB: 11/22/1965
+Phone: (312) 555-4019
+Address: 882 N. Michigan Ave, Apt 14B, Chicago, IL 60611
+Emergency Contact: Charles Montgomery (Husband, 312-555-4020)
+Insurance ID: BCBS-9021839401
+
+Clinical Summary: Patient diagnosed with early-stage Huntington's Disease following genetic testing panel. Patient presented severe distress during consult. History includes past inpatient psychiatric stay in 2021 for major depressive disorder and previous suicide attempt. Prescribed Haldol and referred to specialized neuropsychiatry. Full psychiatric history and home address flagged for medical privacy compliance.",HIGH
+153,"CUSTOMER SECURITY BREACH INCIDENT REPORT
+Impacted Customer: Raymond Vance
+SSN: XXX-XX-3019
+Credit Card: Visa 4532-XXXX-XXXX-8821 (Exp 08/28, CVV 412)
+Billing Address: 1504 Pinecrest Road, Atlanta, GA 30309
+Mother's Maiden Name: Gallagher
+Account Password (Compromised): P@ssword2024!
+
+Details: Compromised user account identified during dark web monitoring scan. Customer's full personal records, including decrypted credit card details, Social Security number, and security verification answers were leaked online. Escalated immediately to Fraud Operations for account lockdown and identity theft protection dispatch.",HIGH
+154,"PATIENT DISCHARGE & SENSITIVE DIAGNOSIS FORM
+Patient: Gregory Allen Peck
+DOB: 07/08/1988
+SSN: XXX-XX-1102
+Address: 204 Oakridge Blvd, Miami, FL 33101
+Phone: (305) 555-8839
+Primary Payer: Medicare ID #1EG4-TE5-MK92
+
+Diagnosis: HIV Positive (Newly Diagnosed), Acute Hepatitis C Co-infection.
+Treatment Plan: Commenced antiretroviral therapy (Biktarvy 50mg/200mg/25mg). Patient counseled on partner notification protocol and medication compliance. Confidential lab results forwarded to State Health Department per reporting mandatory regulations. Discharge papers signed by patient and witnessed by clinical staff.",HIGH
+155,"HR TERMINATION & LEGAL COMPLIANCE RECORD
+Employee: Christopher Robin Vance
+SSN: XXX-XX-9021
+DOB: 05/01/1981
+Home Address: 712 Elmwood Place, Seattle, WA 98101
+Personal Email: c.vance.private@webmail.com
+Phone: (206) 555-7721
+Severance Payment Wire Details: Account #992810492, Routing #125000024
+
+Reason for Termination: Immediate termination for gross misconduct and harassment. Legal settlement agreement executed including $45,000 severance payout. Full employment record, background checks, and financial wiring details archived in restricted HR vault.",HIGH
+156,"INTERNAL AUDIT - FINANCIAL & IDENTITY EXPOSURE
+Account Holder: Margaret Hamilton
+SSN: XXX-XX-5541
+DOB: 02/19/1954
+Address: 901 Birch Terrace, Boston, MA 02108
+Phone: (617) 555-9082
+Financial Details: Checking Balance $142,500.00 | Account #109283748291 | Debit Card #4111-XXXX-XXXX-9021
+
+Incident Summary: External fraudulent wire attempt detected targeting elderly client's account. Suspect attempted to impersonate Ms. Hamilton using stolen SSN, driver's license number #MA-8839201, and full residential address. Account frozen immediately pending police investigation.",HIGH
+157,"PATIENT CLINICAL PSYCHIATRY NOTE
+Patient: Samantha Jane Miller
+DOB: 09/30/1995
+SSN: XXX-XX-6630
+Address: 1104 Valley View Lane, Austin, TX 78701
+Phone: (512) 555-3301
+
+Notes: Patient attended emergency therapy session following severe relapse in substance abuse (Heroin/Fentanyl). Patient admitted to active illegal drug procurement and disclosed ongoing domestic abuse involving spouse. Physical examination revealed visible contusions on neck and arms. Local protection services contacted per patient consent and clinical mandatory reporting guidelines.",HIGH
+158,"HR BACKGROUND CHECK & TAX DOSSIER
+Candidate: David Alexander Ross
+SSN: XXX-XX-7742
+DOB: 12/04/1990
+Driver's License: #CA-C9920182
+Address: 402 Redwood Highway, San Francisco, CA 94102
+Phone: (415) 555-6612
+Form W-4 Attached: Single, 0 Allowances | Bank Acct #5541029381
+
+Status: Comprehensive background screening flagged past felony conviction for grand larceny (2018). Candidate provided formal letter of explanation. Dossier containing full criminal records and banking profiles submitted to Executive Hiring Committee for final decision.",HIGH
+159,"PATIENT ONCOLOGY INTAKE & FINANCIAL AID FORM
+Patient: Eleanor Rose Vance
+DOB: 06/15/1958
+SSN: XXX-XX-2291
+Address: 301 Magnolia Court, Charleston, SC 29401
+Phone: (843) 555-4490
+Financial Aid Application: Annual Income < $18,000 | Medicaid ID #SC-902182
+
+Clinical Status: Stage IV Metastatic Breast Cancer. Patient undergoing palliative chemotherapy. Financial hardship assistance requested for medication costs. Documentation includes full income tax returns, Social Security verification, and residential ownership deeds.",HIGH
+160,"CUSTOMER FRAUD INVESTIGATION DOSSIER
+Target: Arthur Pendelton
+SSN: XXX-XX-8831
+DOB: 01/25/1973
+Address: 604 Sycamore Lane, Denver, CO 80202
+Phone: (303) 555-1192
+Compromised Credit Card: AMEX #3782-XXXXXX-91002
+
+Investigation Notes: Identity theft ring successfully opened three fraudulent mortgage applications using Mr. Pendelton's full PII profile, including full Social Security number, home address, and financial banking histories. Victim notified via certified mail to confirmed Denver residence.",HIGH
+161,"CONFIDENTIAL HR FILE - EMPLOYEE MEDICAL LEAVE
+Employee: Linda Strome
+SSN: XXX-XX-1092
+DOB: 08/22/1984
+Address: 501 Aspen Way, Minneapolis, MN 55401
+Phone: (612) 555-2091
+
+Details: Application for short-term disability approved following diagnosis of Stage II Cervical Cancer. Attached medical records contain pathology reports, surgical operative notes, and personal physician correspondence detailing chemotherapy schedule. File classified under strict restricted privacy controls.",HIGH
+162,"PATIENT PSYCHIATRIC EVALUATION
+Patient: Michael Chang
+DOB: 03/11/1992
+SSN: XXX-XX-4410
+Address: 1208 Lakeview Drive, Seattle, WA 98103
+Phone: (206) 555-8830
+
+Assessment: Involuntary psychiatric hold initiated following acute psychotic episode. Patient expressed active paranoid delusions regarding family members and neighbors. Emergency contact listed as Helen Chang (Mother, 206-555-8831). Full clinical evaluation notes and residential address stored in secure health records vault.",HIGH
+163,"CUSTOMER CREDIT APPLICATION DOSSIER
+Applicant: Robert Edward Lee
+SSN: XXX-XX-9901
+DOB: 04/05/1969
+Address: 802 Cottonwood Road, Dallas, TX 75201
+Phone: (214) 555-3392
+Bank Details: Wells Fargo Checking #883920192 | Income: $125,000/yr
+
+Application Review: Personal credit score verified at 740. Full tax documentation including W-2 forms and bank account statements attached. Approved for $25,000 revolving credit line.",HIGH
+164,"HR ETHICS COMPLAINT FILE
+Complainant: Sarah Jenkins
+SSN: XXX-XX-3321
+DOB: 10/12/1987
+Address: 304 Maple Street, Columbus, OH 43215
+Phone: (614) 555-7712
+
+Summary: Complaint filed alleging age discrimination and sexual harassment against department director. Submission includes personal text messages, home contact details, and internal email records. File restricted to legal counsel and VP of Human Resources.",HIGH
+165,"PATIENT INFECTIOUS DISEASE REPORT
+Patient: Carlos Rodriguez
+DOB: 05/19/1978
+SSN: XXX-XX-6619
+Address: 902 Palm Avenue, Orlando, FL 32801
+Phone: (407) 555-2209
+
+Diagnostic Confirmation: Positive test result for Tuberculosis (Active Infection). Public health contact tracing initiated. Patient residential details and full medical history forwarded to state epidemiological unit.",HIGH
+166,"CONFIDENTIAL HR PAYROLL AUDIT
+Employee: James Wilson
+SSN: XXX-XX-8820
+DOB: 07/04/1983
+Address: 1102 Hickory Lane, Nashville, TN 37201
+Phone: (615) 555-9011
+Bank Routing: #064000017 | Account: #44012938102
+
+Audit Findings: Discrepancy identified in wage garnishment calculations for child support payments. Corrective adjustment executed on payroll account. Full personal financial details archived.",HIGH
+167,"PATIENT REHABILITATION INTAKE
+Patient: Emily Watson
+DOB: 02/28/1991
+SSN: XXX-XX-5012
+Address: 405 Sunset Boulevard, Los Angeles, CA 90028
+Phone: (320) 555-1102
+
+Intake Record: Patient admitted for 30-day inpatient alcohol detoxification program. History of severe alcohol dependency and related medical complications. Family contact information and payment details recorded under confidential status.",HIGH
+168,"LEGAL SETTLEMENT DOSSIER
+Plaintiff: Anthony Hopkins
+SSN: XXX-XX-1190
+DOB: 12/31/1955
+Address: 701 River Road, St. Louis, MO 63101
+Phone: (314) 555-4401
+
+Agreement Summary: Workplace injury settlement approved for $180,000. Payment scheduled via direct wire transfer to primary checking account #990128310. Personal medical evaluations and disability ratings attached.",HIGH
+169,"PATIENT GENETIC TESTING RECORD
+Patient: Claire Bennet
+DOB: 09/14/1998
+SSN: XXX-XX-7720
+Address: 202 High Street, Hartford, CT 06103
+Phone: (860) 555-3390
+
+Lab Results: Genetic panel confirmed BRCA1 gene mutation indicating elevated hereditary breast and ovarian cancer risk. Patient scheduled for genetic counseling session.",HIGH
+170,"HR BENEFICIARY CLAIM FORM
+Deceased Employee: William Miller
+SSN: XXX-XX-3049
+DOB: 04/18/1962
+Address: 603 Forest Drive, Richmond, VA 23219
+Beneficiary: Patricia Miller (Wife, SSN: XXX-XX-9921, Phone: 804-555-6610)
+
+Claim Processing: Life insurance benefit payout of $250,000 authorized for disbursement to primary beneficiary upon receipt of official death certificate.",HIGH
+171,"PATIENT PEDIATRIC SPECIALTY REFERRAL
+Patient: Oliver Queen Jr. (Minor)
+DOB: 01/10/2018
+SSN: XXX-XX-8841
+Parent/Guarantor: Moira Queen
+Address: 1001 Starling Towers, Star City, CA 90210
+Phone: (310) 555-0199
+
+Referral Details: Patient referred to pediatric cardiology for evaluation of congenital heart defect. Complete clinical notes, family medical histories, and health insurance policy details included.",HIGH
+172,"CUSTOMER IDENTITY VERIFICATION AUDIT
+Customer: Peter Parker
+SSN: XXX-XX-4092
+DOB: 08/10/2001
+Address: 20 Ingram Street, Queens, NY 11375
+Phone: (718) 555-0112
+
+Audit Notes: Verification completed for high-value banking portal access. Driver's license copy #NY-8839201 and utility bills verified against primary records.",HIGH
+173,"CONFIDENTIAL HR MEDICAL ACCOMMODATION
+Employee: Bruce Wayne
+SSN: XXX-XX-9902
+DOB: 02/19/1972
+Address: 100 Wayne Manor Drive, Gotham, NJ 07001
+Phone: (201) 555-0100
+
+Accommodation Request: Approved for ergonomic workplace adjustments and flexible hours following major physical trauma and surgical reconstruction of shoulder.",HIGH
+174,"PATIENT ONCOLOGY PROGRESS NOTE
+Patient: Diana Prince
+DOB: 03/22/1985
+SSN: XXX-XX-1120
+Address: 400 Gateway City Blvd, Washington, DC 20001
+Phone: (202) 555-0177
+
+Treatment Record: Patient completed third cycle of chemotherapy for lymphoma. Blood counts monitored. Detailed lab values and oncologist notes archived under confidential status.",HIGH
+175,"BANKING SUSPICIOUS ACTIVITY REPORT
+Customer: Clark Kent
+SSN: XXX-XX-3301
+DOB: 06/18/1978
+Address: 321 Clinton Street, Apt 3B, Metropolis, NY 10001
+Phone: (212) 555-0144
+
+Report Summary: Unusually large international wire transfer of $85,000 flagged for compliance review. Personal tax documentation and banking records submitted for verification.",HIGH
+176,"PATIENT CHRONIC PAIN MANAGEMENT CONTRACT
+Patient: Arthur Curry
+DOB: 01/29/1980
+SSN: XXX-XX-5502
+Address: 700 Lighthouse Point, Amnesty Bay, ME 04001
+Phone: (207) 555-0188
+
+Contract Terms: Prescribed controlled substance (Oxycodone 10mg) for severe chronic back pain. Patient signed formal medication agreement outlining urine drug screening protocol.",HIGH
+177,"HR INVESTIGATION - WORKPLACE THREAT
+Employee: Barry Allen
+SSN: XXX-XX-7710
+DOB: 03/14/1990
+Address: 505 Central City Ave, Central City, MO 64101
+Phone: (816) 555-0133
+
+File Summary: Incident report logged following verbal altercations. Employee referred to Employee Assistance Program for mandatory psychological assessment.",HIGH
+178,"PATIENT EMERGENCY ROOM INTAKE
+Patient: Hal Jordan
+DOB: 02/20/1982
+SSN: XXX-XX-2290
+Address: 808 Hangar Way, Coast City, CA 92601
+Phone: (714) 555-0155
+
+Intake Note: Patient admitted following high-speed motor vehicle accident. Severe head trauma and multiple fractures noted. Emergency family contact notified.",HIGH
+179,"CUSTOMER FRAUD ALERT DOSSIER
+Customer: Victor Stone
+SSN: XXX-XX-6641
+DOB: 05/25/1994
+Address: 101 Innovation Way, Detroit, MI 48201
+Phone: (313) 555-0122
+
+Incident Details: Unauthorized loan application intercepted by fraud detection software. Applicant used stolen credentials including full SSN and tax returns.",HIGH
+180,"PATIENT CLINICAL PSYCHOLOGY INTAKE
+Patient: Harley Quinn
+DOB: 07/20/1990
+SSN: XXX-XX-8890
+Address: 404 Boardwalk Ave, Gotham, NJ 07001
+Phone: (201) 555-0199
+
+Clinical Assessment: History of severe bipolar disorder and impulsive behavior. Currently receiving outpatient psychiatric care and compliance monitoring.",HIGH
+181,"HR SALARY & BENEFIT ADJUSTMENT DOSSIER
+Employee: James Logan
+SSN: XXX-XX-1109
+DOB: 03/10/1975
+Address: 12 Wilderness Road, Alberta, NY 12901
+Phone: (518) 555-0166
+
+Record Note: Salary increase approved alongside family medical coverage updates. Banking routing details and full tax records attached to secure employee profile.",HIGH
+182,"PATIENT NEUROLOGY CONSULTATION
+Patient: Charles Xavier
+DOB: 10/14/1962
+SSN: XXX-XX-4401
+Address: 1407 Graymalkin Lane, Salem, NY 10560
+Phone: (914) 555-0111
+
+Consultation Note: Patient evaluated for progressive spinal cord injury and associated chronic pain management. Detailed MRI scans and medical records archived.",HIGH
+183,"CUSTOMER MORTGAGE DISCLOSURE FORM
+Borrower: Scott Summers
+SSN: XXX-XX-9012
+DOB: 09/18/1980
+Address: 402 Lakeview Drive, Westchester, NY 10560
+Phone: (914) 555-0123
+
+Loan Application: Loan approved for $450,000. Full tax records, employment verification letters, and bank statements filed under secure loan dossier.",HIGH
+184,"PATIENT SURGICAL CONSENT FORM
+Patient: Jean Grey
+DOB: 04/24/1983
+SSN: XXX-XX-3341
+Address: 404 Lakeview Drive, Westchester, NY 10560
+Phone: (914) 555-0124
+
+Form Summary: Patient executed informed consent for invasive neurosurgical procedure. Medical risk disclosures signed and witnessed by attending clinical staff.",HIGH
+185,"CONFIDENTIAL HR DISCIPLINARY RECORD
+Employee: Ororo Munroe
+SSN: XXX-XX-7780
+DOB: 06/05/1981
+Address: 808 Storm Avenue, Cairo, NY 12413
+Phone: (518) 555-0144
+
+Record Details: Formal written warning issued regarding unauthorized absence. Full attendance records, home phone contacts, and manager notes archived in confidential file.",HIGH
+186,"PATIENT REHABILITATION PROGRESS REPORT
+Patient: Hank McCoy
+DOB: 08/12/1978
+SSN: XXX-XX-2210
+Address: 101 Research Parkway, Rochester, NY 14604
+Phone: (585) 555-0155
+
+Progress Summary: Patient recovering from orthopedic joint replacement surgery. Rehabilitation protocols progressing as scheduled. Full clinical charts attached.",HIGH
+187,"CUSTOMER CREDIT AUDIT DOSSIER
+Customer: Remy LeBeau
+SSN: XXX-XX-6631
+DOB: 02/14/1984
+Address: 303 Bourbon Street, New Orleans, LA 70130
+Phone: (504) 555-0177
+
+Audit Note: Identity verification completed for line of credit increase. Driver's license, tax returns, and bank account history verified.",HIGH
+188,"PATIENT DERMATOLOGY CHART
+Patient: Anna Marie Raven
+DOB: 11/02/1986
+SSN: XXX-XX-5540
+Address: 505 Mississippi Road, Meridian, MS 39301
+Phone: (601) 555-0188
+
+Clinical Chart: Evaluation completed for chronic skin conditions. Special topical medications prescribed. Full medical history saved in patient electronic chart.",HIGH
+189,"HR RETIREMENT BENEFIT DISBURSEMENT
+Employee: Erik Lehnsherr
+SSN: XXX-XX-8812
+DOB: 05/28/1950
+Address: 900 Magneto Way, Genosha, NY 10001
+Phone: (212) 555-0190
+
+Disbursement File: Pension distribution authorized to direct deposit checking account. Tax withholding preferences and full SSN verified.",HIGH
+190,"PATIENT CARDIOLOGY DISCHARGE SUMMARY
+Patient: Kurt Wagner
+DOB: 11/11/1988
+SSN: XXX-XX-4430
+Address: 202 Chapel Lane, Boston, MA 02101
+Phone: (617) 555-0133
+
+Summary: Patient discharged following successful pacemaker implantation. Cardiac activity stabilized. Detailed outpatient follow-up instructions provided.",HIGH
+191,"CUSTOMER INSOLVENCY & BANKRUPTCY NOTICE
+Debtor: Piotr Rasputin
+SSN: XXX-XX-1140
+DOB: 07/18/1982
+Address: 606 Steelworks Road, Pittsburgh, PA 15201
+Phone: (412) 555-0122
+
+Notice Details: Chapter 7 bankruptcy filing notification received. Credit accounts frozen. Outstanding personal balances forwarded to legal counsel.",HIGH
+192,"PATIENT INFECTIOUS DISEASE EVALUATION
+Patient: Kitty Pryde
+DOB: 05/03/1991
+SSN: XXX-XX-9931
+Address: 101 Shadow Lane, Deerfield, IL 60015
+Phone: (847) 555-0144
+
+Evaluation Summary: Patient evaluated for severe viral illness. Isolation protocols advised. Confidential laboratory testing results archived in patient profile.",HIGH
+193,"HR WORKERS COMPENSATION CLAIM
+Claimant: Warren Worthington
+SSN: XXX-XX-3320
+DOB: 01/22/1979
+Address: 700 Aviary Drive, New York, NY 10021
+Phone: (212) 555-0155
+
+Claim Details: Compensation claim submitted following severe workplace physical injury. Complete medical evaluation and disability rating records attached.",HIGH
+194,"PATIENT ENDOCRINOLOGY CHART
+Patient: Betsy Braddock
+DOB: 08/08/1985
+SSN: XXX-XX-7741
+Address: 303 Manor House, London, NY 10002
+Phone: (212) 555-0166
+
+Chart Note: Hormonal therapy management evaluation completed. Diagnostic lab panels ordered. Treatment schedule updated in confidential patient profile.",HIGH
+195,"CUSTOMER TAX AUDIT DOSSIER
+Taxpayer: Jubilation Lee
+SSN: XXX-XX-2250
+DOB: 02/02/1993
+Address: 404 Jubilee Court, Beverly Hills, CA 90210
+Phone: (310) 555-0177
+
+Audit Summary: State tax verification audit conducted. W-2 forms, income tax disclosures, and physical residence verification files archived.",HIGH
+196,"PATIENT OPHTHALMOLOGY PROGRESS NOTE
+Patient: Lucas Bishop
+DOB: 09/19/1977
+SSN: XXX-XX-6680
+Address: 808 Future Way, Brooklyn, NY 11201
+Phone: (718) 555-0188
+
+Progress Note: Patient evaluated for severe laser radiation eye damage. Surgical intervention recommended. Full clinical history stored in medical database.",HIGH
+197,"HR EMPLOYEE TAX GARNISHMENT
+Employee: Nathan Summers
+SSN: XXX-XX-5591
+DOB: 04/12/1976
+Address: 909 Cable Road, Dallas, TX 75202
+Phone: (214) 555-0199
+
+Garnishment Order: Federal tax levy order executed against employee wages. Banking profiles and payroll records updated per court order.",HIGH
+198,"PATIENT MENTAL HEALTH INTAKE
+Patient: Neena Thurman
+DOB: 06/26/1987
+SSN: XXX-XX-8822
+Address: 101 Domino Drive, Reno, NV 89501
+Phone: (775) 555-0111
+
+Intake Report: Assessment completed for acute anxiety and post-traumatic stress disorder. Outpatient therapy program initiated.",HIGH
+199,"CUSTOMER BANK ACCOUNT SECURITY BREACH
+Account Holder: Wade Wilson
+SSN: XXX-XX-4411
+DOB: 11/20/1980
+Address: 202 Mercenary Way, Vancouver, NY 10003
+Phone: (212) 555-0122
+
+Breach Notification: Customer financial portal compromised. Decrypted passwords, credit details, and home address exposed during cyber incident.",HIGH
+200,"PATIENT GASTROENTEROLOGY CHART
+Patient: Cable Nathan
+DOB: 03/30/1974
+SSN: XXX-XX-1150
+Address: 505 Timeline Street, Phoenix, AZ 85001
+Phone: (602) 555-0133
+
+Clinical Note: Diagnostic endoscopy completed. Biopsy samples submitted for pathological review. Clinical records updated in health portal.",HIGH
+201,Team update: The project launch date for the website redesign has been moved to next Thursday. Please ensure all graphic assets and copy edits are finalized in the drive by Tuesday evening. Reach out to marketing if you need extra support.,LOW
+202,Customer service update: Case #88192 for broken keyboard replacement resolved. Replacement hardware dispatched via standard shipping. Tracking number delivered via automated notification.,LOW
+203,Patient presented for annual physical. Overall health stable. Recommended routine exercise and dietary hydration. Scheduled follow-up in twelve months.,LOW
+204,HR Announcement: Annual benefits open enrollment begins next month. Detailed documentation regarding healthcare plan choices uploaded to employee portal.,LOW
+205,Forum post: What are the best options for lightweight camping tents for high-altitude solo hiking trips in early spring weather?,LOW
+206,Facility Maintenance: Elevator #2 in North Building undergoing scheduled maintenance between 1:00 PM and 3:00 PM today. Use East stairwell or main elevators.,LOW
+207,Personal message: Thanks for helping me set up the outdoor patio furniture yesterday! The backyard looks great for the weekend barbecue.,LOW
+208,Billing Note: Payment of $75.00 received for monthly service subscription. Account balance reflects current zero outstanding balance.,LOW
+209,"Clinical Note: Patient reports mild joint pain following strenuous exercise. Advised ice application, rest, and over-the-counter anti-inflammatory treatment as needed.",LOW
+210,IT Ticket: User requested additional network storage quota for video editing projects. Storage capacity upgraded successfully.,LOW
+211,Memo: Office security reminder to keep electronic access badges visible while inside corporate facility grounds.,LOW
+212,Patient Chart: Dermatology follow-up completed. Skin exam normal with no suspicious lesions or changes noted.,LOW
+213,HR Record - Attendance Summary: Employee utilized 2 sick days during current quarter. Remaining leave balance updated in portal.,LOW
+214,Support Ticket: Resolved printer connectivity issue on 3rd floor by reinstalling print spooler drivers on client machine.,LOW
+215,Customer Note: Address update confirmed for catalog mailing list per user request submitted through customer website.,LOW
+216,Clinical Chart: Patient completed routine dental cleaning and flouride treatment. No active tooth decay identified.,LOW
+217,Internal Email: Final budget spreadsheet for Q4 operations available on shared network drive for manager review.,LOW
+218,Forum Post: Recommend good coffee shops with quiet atmospheres and fast Wi-Fi in downtown Austin for remote work sessions?,LOW
+219,Billing Summary: Refund of $25.00 processed for returned item under order #40921. Balance credited to original payment method.,LOW
+220,"Personal Note: Hey Sarah, let me know if you want to join our book club meeting next Tuesday at 7 PM.",LOW
+221,Medical Progress: Patient attending physical therapy for mild lower back stiffness. Range of motion improving steadily.,LOW
+222,HR Notice: Reminder to complete quarterly performance evaluation self-reviews prior to Friday deadline.,LOW
+223,Customer Inquiry: Question regarding shipping rates for international orders answered by support agent via live chat.,LOW
+224,Operations Log: Central warehouse inventory audit completed. All stock counts match digital ledger system.,LOW
+225,Clinical Note: Routine vision exam completed. No changes in spherical correction required for current eye prescription.,LOW
+226,Workplace Communication: Catering selection for regional team workshop finalized. Vegetarian and gluten-free options included.,LOW
+227,Appointment Confirmation: Scheduled pediatric wellness check for November 4 at 11:00 AM at Family Health Clinic.,LOW
+228,IT Notice: System maintenance scheduled for Sunday midnight. Automated cloud backups running as scheduled.,LOW
+229,Billing Note: Monthly utility bill issued for account #88291. Due date set for end of current month.,LOW
+230,Medical Summary: Patient clearance issued for return to light physical activities following recovery from seasonal cold.,LOW
+231,HR Notice: Remote work policy guidelines updated in corporate intranet documentation repository.,LOW
+232,Customer Ticket: Password reset link generated and dispatched to customer registered email address upon request.,LOW
+233,Forum Post: What are the best practices for setting up home vegetable garden raised beds in clay soil?,LOW
+234,Clinical Note: Patient received annual wellness screening. Blood pressure within normal physiological ranges.,LOW
+235,"Personal SMS: Hey, running a few minutes late to dinner due to traffic, save me a seat!",LOW
+236,Workplace Email: Updated organization chart published to internal company bulletin board for employee access.,LOW
+237,Billing Record: Subscription renewal payment of $120.00 processed successfully for enterprise analytics platform.,LOW
+238,Medical Progress Note: Orthopedic evaluation shows excellent healing progress following wrist fracture cast removal.,LOW
+239,Support Ticket: Resolved software installation error by clearing local system cache files and re-running setup.,LOW
+240,HR Record: Employment verification form processed for mortgage clearance under standard operational procedures.,LOW
+241,Facility Update: Breakroom refrigerator deep cleaning scheduled for Friday afternoon. Remove personal items prior to 4 PM.,LOW
+242,Clinical Chart: Patient reports improved sleep quality following implementation of recommended sleep hygiene changes.,LOW
+243,Customer Note: Delivery tracking update dispatched via automated email for order #90218.,LOW
+244,Personal Message: Thanks for sharing those trip photos! The mountain scenery looked absolutely amazing.,LOW
+245,Billing Inquiry: Clarification provided regarding service charges on monthly facility statement.,LOW
+246,Medical Chart: Patient completed routine annual cholesterol screening. Results within healthy clinical parameters.,LOW
+247,Workplace Memo: Reminder to lock workstation screens when leaving desks unattended for security compliance.,LOW
+248,Forum Question: Looking for beginner tips on setting up an automated home aquarium filtration system?,LOW
+249,HR Communication: Flexible summer schedule policy concluded. Standard operational hours resume next Monday.,LOW
+250,Customer Support: Ticket closed following confirmation of resolved account access issues.,LOW

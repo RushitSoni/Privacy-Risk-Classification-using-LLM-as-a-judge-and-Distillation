@@ -1,0 +1,59 @@
+Presidio baseline vs model | n = 250 | Presidio 2.2.364 + spaCy en_core_web_lg
+Baseline rules are fixed and untuned.
+
+OVERALL METRICS
+system              always_LOW  Presidio_baseline  model
+accuracy                 0.580              0.524  0.728
+precision_macro          0.193              0.269  0.722
+recall_macro             0.333              0.330  0.622
+f1_macro                 0.245              0.289  0.630
+precision_weighted       0.336              0.392  0.755
+recall_weighted          0.580              0.524  0.728
+f1_weighted              0.426              0.442  0.718
+precision_micro          0.580              0.524  0.728
+recall_micro             0.580              0.524  0.728
+f1_micro                 0.580              0.524  0.728
+
+Note: micro-averaged precision, recall and F1 all equal accuracy in single-label multiclass tasks.
+
+PER-CLASS METRICS
+[always_LOW]
+        precision  recall     f1  support
+class                                    
+LOW          0.58     1.0  0.734      145
+MEDIUM       0.00     0.0  0.000       61
+HIGH         0.00     0.0  0.000       44
+
+[Presidio_baseline]
+        precision  recall     f1  support
+class                                    
+LOW         0.581   0.841  0.687      145
+MEDIUM      0.225   0.148  0.178       61
+HIGH        0.000   0.000  0.000       44
+
+[model]
+        precision  recall     f1  support
+class                                    
+LOW         0.841   0.876  0.858      145
+MEDIUM      0.500   0.672  0.573       61
+HIGH        0.824   0.318  0.459       44
+
+CONFUSION MATRICES (rows = true, cols = predicted)
+[always_LOW]
+             pred_LOW  pred_MEDIUM  pred_HIGH
+true_LOW          145            0          0
+true_MEDIUM        61            0          0
+true_HIGH          44            0          0
+
+[Presidio_baseline]
+             pred_LOW  pred_MEDIUM  pred_HIGH
+true_LOW          122           23          0
+true_MEDIUM        52            9          0
+true_HIGH          36            8          0
+
+[model]
+             pred_LOW  pred_MEDIUM  pred_HIGH
+true_LOW          127           18          0
+true_MEDIUM        17           41          3
+true_HIGH           7           23         14
+

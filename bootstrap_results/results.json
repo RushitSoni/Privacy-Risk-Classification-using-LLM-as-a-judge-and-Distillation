@@ -1,0 +1,169 @@
+{
+  "run_info": {
+    "timestamp": "2026-09-28T12:50:39",
+    "input_csv": "data/predictions/privacy_v7_epoch3/survey_with_label3_predictions.csv",
+    "true_col": "label3",
+    "pred_col": "predicted_label",
+    "n_samples": 250,
+    "n_boot": 10000,
+    "seed": 42,
+    "ci_method": "percentile bootstrap, 95%",
+    "baseline": "always predict LOW",
+    "class_order": [
+      "LOW",
+      "MEDIUM",
+      "HIGH"
+    ]
+  },
+  "summary_metrics": [
+    {
+      "metric": "Macro F1",
+      "point_estimate": 0.6301836916591016,
+      "boot_mean": 0.6278984581131195,
+      "boot_std": 0.03668530017196746,
+      "ci_low": 0.555892536713086,
+      "ci_high": 0.6983355466011385
+    },
+    {
+      "metric": "Weighted F1",
+      "point_estimate": 0.7184056718646883,
+      "boot_mean": 0.7179807476682574,
+      "boot_std": 0.03019123415400896,
+      "ci_low": 0.6585290517502245,
+      "ci_high": 0.7764282838510069
+    },
+    {
+      "metric": "Quadratic weighted kappa",
+      "point_estimate": 0.642179408832138,
+      "boot_mean": 0.6410329848621105,
+      "boot_std": 0.045767133374150545,
+      "ci_low": 0.5482658552800789,
+      "ci_high": 0.728287742443773
+    },
+    {
+      "metric": "Accuracy",
+      "point_estimate": 0.728,
+      "boot_mean": 0.727864,
+      "boot_std": 0.028314308644348023,
+      "ci_low": 0.672,
+      "ci_high": 0.784
+    }
+  ],
+  "per_class_f1": [
+    {
+      "class": "LOW",
+      "support": 145,
+      "f1_point": 0.8581081081081081,
+      "boot_mean": 0.8577063453516257,
+      "ci_low": 0.8131868131868132,
+      "ci_high": 0.8986486486486487,
+      "ci_width": 0.0854618354618355
+    },
+    {
+      "class": "MEDIUM",
+      "support": 61,
+      "f1_point": 0.5734265734265734,
+      "boot_mean": 0.5708457842601158,
+      "ci_low": 0.46774193548387094,
+      "ci_high": 0.6666666666666666,
+      "ci_width": 0.1989247311827957
+    },
+    {
+      "class": "HIGH",
+      "support": 44,
+      "f1_point": 0.45901639344262296,
+      "boot_mean": 0.4551432447276171,
+      "ci_low": 0.2903225806451613,
+      "ci_high": 0.6037955243527859,
+      "ci_width": 0.31347294370762463
+    }
+  ],
+  "per_class_report": [
+    {
+      "class": "LOW",
+      "precision": 0.8410596026490066,
+      "recall": 0.8758620689655172,
+      "f1": 0.8581081081081081,
+      "support": 145
+    },
+    {
+      "class": "MEDIUM",
+      "precision": 0.5,
+      "recall": 0.6721311475409836,
+      "f1": 0.5734265734265734,
+      "support": 61
+    },
+    {
+      "class": "HIGH",
+      "precision": 0.8235294117647058,
+      "recall": 0.3181818181818182,
+      "f1": 0.45901639344262296,
+      "support": 44
+    }
+  ],
+  "confusion_matrix": {
+    "rows_true_cols_pred": [
+      "LOW",
+      "MEDIUM",
+      "HIGH"
+    ],
+    "counts": [
+      [
+        127,
+        18,
+        0
+      ],
+      [
+        17,
+        41,
+        3
+      ],
+      [
+        7,
+        23,
+        14
+      ]
+    ]
+  },
+  "baseline_comparison": [
+    {
+      "metric": "Macro F1",
+      "model": 0.6301836916591016,
+      "baseline_always_LOW": 0.24472573839662448,
+      "gain_point": 0.3854579532624771,
+      "gain_ci_low": 0.30734268254728186,
+      "gain_ci_high": 0.45570419394114947,
+      "ci_excludes_zero": true,
+      "mcnemar_b_model_right_base_wrong": 55,
+      "mcnemar_c_model_wrong_base_right": 18,
+      "mcnemar_chi2": 17.753424657534246,
+      "mcnemar_p": 2.514644167683766e-05
+    },
+    {
+      "metric": "Accuracy",
+      "model": 0.728,
+      "baseline_always_LOW": 0.58,
+      "gain_point": 0.14800000000000002,
+      "gain_ci_low": 0.08399999999999996,
+      "gain_ci_high": 0.21200000000000008,
+      "ci_excludes_zero": true,
+      "mcnemar_b_model_right_base_wrong": 55,
+      "mcnemar_c_model_wrong_base_right": 18,
+      "mcnemar_chi2": 17.753424657534246,
+      "mcnemar_p": 2.514644167683766e-05
+    },
+    {
+      "metric": "Quadratic weighted kappa",
+      "model": 0.642179408832138,
+      "baseline_always_LOW": 0.0,
+      "gain_point": 0.642179408832138,
+      "gain_ci_low": 0.5482658552800789,
+      "gain_ci_high": 0.728287742443773,
+      "ci_excludes_zero": true,
+      "mcnemar_b_model_right_base_wrong": 55,
+      "mcnemar_c_model_wrong_base_right": 18,
+      "mcnemar_chi2": 17.753424657534246,
+      "mcnemar_p": 2.514644167683766e-05
+    }
+  ]
+}
