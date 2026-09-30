@@ -1,0 +1,33 @@
+{
+  "run_finished_utc": "2026-09-30T11:39:31.630021+00:00",
+  "args": {
+    "csv": "data/test/survey_with_label3.csv",
+    "model": "jev-1.13.0",
+    "out_dir": null,
+    "base_url": "https://api.typesafe.ai",
+    "workers": 8,
+    "max_retries": 6,
+    "timeout": 60.0,
+    "limit": null,
+    "dry_run": false,
+    "report_only": false
+  },
+  "model_requested": "jev-1.13.0",
+  "models_reported": [
+    "jev-1.13.0"
+  ],
+  "instructions_sha256": "99649db37e0968a55841aa742443c13ad4eaea79d5009efacd90cddb46ebe09a",
+  "csv_sha256": "db4a3df9f1cff3edab87e684d3acefb9c801fd6ca7b975683a8f73eaffef1d63",
+  "n_texts": 250,
+  "total_input_tokens": 231282,
+  "estimated_cost_usd": 0.009713844000000001,
+  "median_latency_s": 0.34140000000000004,
+  "wall_seconds_this_invocation": 11.3,
+  "versions": {
+    "python": "3.11.4",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "requests": "2.34.2",
+    "pandas": "3.0.5",
+    "numpy": "2.4.6"
+  }
+}
